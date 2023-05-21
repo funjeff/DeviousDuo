@@ -1,0 +1,3 @@
+$src resources/sprites/Dickhead/dickheadKnockedOver.png
+
+ grid 86 54

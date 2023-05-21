@@ -1,0 +1,3 @@
+$src resources/sprites/MallCop/copCar.png
+
+ grid 93 35

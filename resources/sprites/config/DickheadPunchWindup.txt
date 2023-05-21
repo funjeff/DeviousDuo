@@ -1,0 +1,3 @@
+$src resources/sprites/Dickhead/DickheadPunchCharge.png
+
+ grid 84 90

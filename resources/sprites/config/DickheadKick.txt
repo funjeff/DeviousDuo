@@ -1,0 +1,3 @@
+$src resources/sprites/Dickhead/DickheadKick.png
+
+ grid 82 72

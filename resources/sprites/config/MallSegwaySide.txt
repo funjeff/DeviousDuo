@@ -1,0 +1,3 @@
+$src resources/sprites/MallCop/Segway.png
+
+ grid 43 56
